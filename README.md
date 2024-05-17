@@ -1,6 +1,6 @@
 ## Name: kabilan T
 ## Reg.No: 212222230059
-# Monitoring-light intensity using LDR and uploading the data in the cloud using an IoT controller-.
+#  EX NO 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller.
 
 # AIM:
 To monitor and upload the light intensity value in the Things mate using Arduino controller.
